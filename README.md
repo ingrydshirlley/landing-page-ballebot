@@ -1,6 +1,6 @@
 |      MOBILE         |          DESKTOP       |
 |:-------------------:|:-----------------------:
-|![](./img/landing-page.png)|![](./img/responsive.png)|
+|![](./img/oi.png)|![](./img/landing-page.png)|
 |                     |                        |  
 
 ## Sobre:
